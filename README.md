@@ -1,2 +1,2 @@
 # library_task
-Library Atos Task
+To run test go to the root folder and type `sbt test`
